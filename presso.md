@@ -1,7 +1,7 @@
 <!--
   $theme: default
   pretender: true
-  footer: Matthias Hryniszak - Meet.js 2018-11-21
+  footer: Matthias Hryniszak - DevDuck 2018-11-21
 -->
 
 <!--
